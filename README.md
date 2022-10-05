@@ -1,1 +1,1 @@
-echo # microservices-infra
+# microservices-infra
